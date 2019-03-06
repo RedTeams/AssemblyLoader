@@ -1,0 +1,4 @@
+c:\users\research\documents\visual studio 2013\Projects\AssemblyLoader\Loader\bin\Debug\Loader.dll
+c:\users\research\documents\visual studio 2013\Projects\AssemblyLoader\Loader\bin\Debug\Loader.pdb
+c:\users\research\documents\visual studio 2013\Projects\AssemblyLoader\Loader\obj\Debug\Loader.dll
+c:\users\research\documents\visual studio 2013\Projects\AssemblyLoader\Loader\obj\Debug\Loader.pdb
